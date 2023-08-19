@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.39.140:9980/santhosh/repository/yesbank-release/</url>
+	      <url>http://13.234.32.56:9980/santhosh/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.39.140:9980/santhosh/repository/yesbank-snapshot/</url>
+	      <url>http://13.234.32.56:9980/santhosh/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
